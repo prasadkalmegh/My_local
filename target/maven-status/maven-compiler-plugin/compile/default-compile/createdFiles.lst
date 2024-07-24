@@ -1,0 +1,9 @@
+Squar\Framwork\CartPage.class
+Squar\Framwork\ProductPage.class
+Squar\Framwork\LoginPage.class
+Squar\Framwork\LandingPage.class
+Squar\Framwork\HomePage.class
+resources\ExtentReport.class
+Squar\Framwork\ProductDetails.class
+Squar\Framwork\CheckoutPage.class
+Utilities\BasePageClass.class

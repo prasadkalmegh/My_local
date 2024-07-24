@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T14:01:57 IST" name="Suite" finished-at="2024-07-18T14:02:05 IST" duration-ms="8056">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T14:01:57 IST" name="Test" finished-at="2024-07-18T14:02:05 IST" duration-ms="8056">
+      <class name="Squar.Framwork.E2ETest2">
+        <test-method signature="endToEndTest(java.lang.String,java.lang.String)[pri:0, instance:Squar.Framwork.E2ETest2@548a24a]" started-at="2024-07-18T14:01:57 IST" name="endToEndTest" data-provider="getData" finished-at="2024-07-18T14:02:02 IST" duration-ms="4241" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prasadkalmegh123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pr@s@d123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndTest -->
+        <test-method signature="endToEndTest(java.lang.String,java.lang.String)[pri:0, instance:Squar.Framwork.E2ETest2@548a24a]" started-at="2024-07-18T14:02:02 IST" name="endToEndTest" data-provider="getData" finished-at="2024-07-18T14:02:05 IST" duration-ms="3783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prasadkalmegh19@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pr@s@d123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndTest -->
+      </class> <!-- Squar.Framwork.E2ETest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
